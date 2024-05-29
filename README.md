@@ -32,9 +32,9 @@ Repositório destinado para a matéria de Sistemas Operacionais II
 - Informação em geral (campo para descrever qualquer informação adicional sobre o item)
 
   > Uma tela home que mostra os itens com estoque disponível, deve conter:
-  - Nome do item
-  - Foto ilustrativa do item
-  - Descrição do item
-  - Valor de venda
-  - Categoria (porção/bebida/combo/diversos)
+- Nome do item
+- Foto ilustrativa do item
+- Descrição do item
+- Valor de venda
+- Categoria (porção/bebida/combo/diversos)
     
